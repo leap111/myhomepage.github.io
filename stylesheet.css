@@ -64,7 +64,6 @@ header {
   font-weight: normal;
 }
 
-/* lessonクラスのCSSを指定してください */
 .firework-content{
   float:left;
   width:25%;
@@ -93,4 +92,23 @@ header {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
+}
+
+
+.other-firework{
+  
+}
+
+.other-firework p{
+  font-size:20px;
+  color:yellow;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
 }
