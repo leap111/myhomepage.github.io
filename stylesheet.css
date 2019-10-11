@@ -72,11 +72,10 @@ header {
 }
 
 .firework-photo{
-  position:relative;
+  position:absolute;
 }
 
 .firework-photo p{
-  position:absolute;
   top:90px;
   width:100%;
   color:blown;
